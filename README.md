@@ -8,6 +8,6 @@ The Lambert solver is reference frame agnostic. Thus, ephemeris data collected f
 
 Time is also an important factor, so make sure to keep in mind when selecting your dates. If unsure, can use online planetary simulators that showcase the planet's positions with respect to each other at different dates. 
 
-units are:  distance =  km,
+units are:  distance =  km, </br>
             velocity = km/s,
             time      = s
